@@ -248,7 +248,8 @@ function create_config( )
     "lock_badword",
     "lock_badw",
     "qr",
-    "texttoimage"
+    "texttoimage",
+    "kickall"
     },
 	    sudo_users = {105831687},--Sudo users
     disabled_channels = {},
