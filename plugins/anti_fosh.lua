@@ -55,11 +55,12 @@ return {
     "دزد(.*)",
     "ننت(.*)",
     "ابمو(.*)",
+    "kos(.*)",
+    "kir(.*)",
+    "jende(.*)",
+    "gayidi(.*)",
+    "kiri(.*)",
     "جق(.*)"
   },
   run = run
 }
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است--

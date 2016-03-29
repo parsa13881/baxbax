@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'bot v'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @parsaalemi
+  @Hossein_yzzz
+  @ArianTriex
   
-  Channel : @Nod32team
+ https://telegram.me/xxx_spamkiller_xxx
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 8
+  bot v 2
   
   All rights reserved.
   __________________]]
@@ -25,7 +25,3 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
